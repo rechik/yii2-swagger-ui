@@ -1,5 +1,5 @@
 <?php
-namespace veksa\swagger\yii2\assets;
+namespace rechik\swagger\yii2\assets;
 
 use yii\web\AssetBundle;
 
