@@ -30,7 +30,7 @@ class SwaggerUiAsset extends AssetBundle
     ];
 
     public $depends = [
-        'veksa\swagger\yii2\assets\JquerySwaggerUiAsset',
-        'veksa\swagger\yii2\assets\UnderscoreAsset'
+        'rechik\swagger\yii2\assets\JquerySwaggerUiAsset',
+        'rechik\swagger\yii2\assets\UnderscoreAsset'
     ];
 }
