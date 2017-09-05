@@ -1,5 +1,5 @@
 {
-    "name": "veksa/yii2-swagger-ui",
+    "name": "rechik/yii2-swagger-ui",
     "description": "Yii2 Swagger UI",
     "keywords": [
         "php",
@@ -9,7 +9,7 @@
         "extension",
         "component"
     ],
-    "homepage": "https://github.com/veksa/yii2-swagger-ui",
+    "homepage": "https://github.com/rechik/yii2-swagger-ui",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-             "veksa\\swagger\\yii2\\": "src"
+             "rechik\\swagger\\yii2\\": "src"
         }
     },
     "extra": {
